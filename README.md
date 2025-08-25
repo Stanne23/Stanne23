@@ -1,3 +1,5 @@
+![Hi, I'm Sharina - UX Design & Marketing](sharinaprofile.png)  
+
 ## Hi, I'm Sharina 👋🏾
 
 ✨  I'm a creative and determined lifelong learner, currently pursuing a **Master's degree in User Experience (UX) at ASU** and starting to build a strong foundation in **software engineering** as well.
