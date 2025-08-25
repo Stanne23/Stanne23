@@ -1,5 +1,19 @@
-## Hi there 👋
+## Hi, I'm Sharina 👋🏾
 
+✨  I'm a creative and determined lifelong learner, currently pursuing a **Master's degree in User Experience (UX) at ASU** and starting to build a strong foundation in **software engineering** as well.
+
+💡 My background is in **marketing** but I'm passionate about **technology, design, and language learning**. I bring a unique blend of creativity, strategy, and technical skills to everything I do. 
+
+🌱Right now, I'm focusing on: 
+- Starting my journey with ASU for my Masters in **UX**, as well as studying **front end development**.
+- Exploring **AI applications** in marketing and business.
+- Practicing **Spanish** daily, with a special intrest in Caribbean Spanish.
+
+  ---
+  ## 🎯 Fun Facts
+  - 🌎 I'm based in Arizona
+  - 🪄 I love creating things that inspire healing, growth, and self-discovery.
+  - 🎨 I enjoy blending **design + tech** to make projects both useful and beautiful.
 <!--
 **Stanne23/Stanne23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
